@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit 2 Writing Assignment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Unit 2 Writing Assignment</h1>
+        <p>Learn About GitHub Pages and Create a Custom Business Website</p>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>
+                This project focuses on building a professional business website using GitHub Pages.
+                The goal is to learn web development basics and GitHub workflows while applying them to a real-world scenario.
+            </p>
+        </section>
+
+        <section id="steps">
+            <h2>Steps to Complete</h2>
+            <ol>
+                <li>Create a GitHub repository and upload your HTML and CSS files.</li>
+                <li>Enable GitHub Pages in the repository settings.</li>
+                <li>Customize the website using HTML and CSS to reflect your business idea.</li>
+                <li>Publish the website and share the link.</li>
+            </ol>
+        </section>
+
+        <section id="challenges">
+            <h2>Challenges and Solutions</h2>
+            <ul>
+                <li><strong>Challenge:</strong> Navigating GitHub Pages settings.</li>
+                <li><strong>Solution:</strong> Followed the "Quickstart for GitHub Pages" guide.</li>
+                <li><strong>Challenge:</strong> Customizing templates with HTML and CSS.</li>
+                <li><strong>Solution:</strong> Completed tutorials on Khan Academy for HTML/CSS basics.</li>
+            </ul>
+        </section>
+
+        <section id="conclusion">
+            <h2>Conclusion</h2>
+            <p>
+                The Unit 2 assignment provided valuable insights into GitHub workflows and web development.
+                By overcoming challenges, I successfully created and published a professional-looking website.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Writing Assignment | Created with GitHub Pages</p>
+    </footer>
+</body>
+</html>
